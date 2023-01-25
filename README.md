@@ -35,7 +35,7 @@
 <p align="center">
 
   
- [![Linkedin Badge](https://img.shields.io/badge/-Sabira-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/AHMEDZEKO1O///)](https://www.linkedin.com/in/sabira-farooq/)  [![Gmail Badge](https://img.shields.io/badge/-Ammz2006711@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Ammz2006711@gmail.com)](mailto:Ammz2006711@gmail.com)
+ [![Linkedin Badge](https://img.shields.io/badge/-zeko-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/AHMEDZEKO1O///)](https://www.facebook.com/AHMEDZEKO1O/)  [![Gmail Badge](https://img.shields.io/badge/-Ammz2006711@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Ammz2006711@gmail.com)](mailto:Ammz2006711@gmail.com)
  </p>
 <br>
 
