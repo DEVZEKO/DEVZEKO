@@ -52,11 +52,11 @@
   
 
 <p align="center">
-  <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sab01123&layout=compact&langs_count=8&hide=&theme=indian-flag"  /></p>
+  <img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEVZEKO&layout=compact&langs_count=8&hide=&theme=indian-flag"  /></p>
 
 
 <p align="center">
-  <img alt="Sabira Stats" src="https://github-readme-stats.vercel.app/api?username=Sab01123&show_icons=true&theme=radical">
+  <img alt="Sabira Stats" src="https://github-readme-stats.vercel.app/api?username=DEVZEKO&show_icons=true&theme=radical">
 </p>
 
 <p align="center">
