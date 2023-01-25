@@ -15,10 +15,9 @@
 
 
 
-- 🔭 I’m currently at Masai School
+- 🔭 I am currently studying
 
-- 🌱 Learning **Full-Stack Web Development** from Masai School
-
+- 🌱 Learning **Full-Stack Web Development** from Internet
 - 👨‍💻 All of my projects are available at [https://github.com/DEVZEKO?tab=repositories](https://github.com/DEVZEKO?tab=repositories)
 
 - 💬 Ask me about **Java and Html and php** 
